@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab5659d0-c6a4-4d8c-bcc7-6e4e292a4e24" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="6-Draw-Bow-Tie" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aDW1u9ARzBaLTCdqu9DUCViqNL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../7-Rock-Paper-Scissor" />
+  </component>
+  <component name="RunManager">
+    <configuration name="draw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="6-Draw-Bow-Tie" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/draw.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.draw" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab5659d0-c6a4-4d8c-bcc7-6e4e292a4e24" name="Default Changelist" comment="" />
+      <created>1586270432286</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586270432286</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="155" width="630" height="707" key="FileChooserDialogImpl" timestamp="1586274688604">
+      <screen x="0" y="0" width="1920" height="1021" />
+    </state>
+    <state x="640" y="155" width="630" height="707" key="FileChooserDialogImpl/0.0.1920.1021@0.0.1920.1021" timestamp="1586274688604" />
+    <state width="1886" height="300" key="GridCell.Tab.0.bottom" timestamp="1586274689968">
+      <screen x="0" y="0" width="1920" height="1021" />
+    </state>
+    <state width="1886" height="300" key="GridCell.Tab.0.bottom/0.0.1920.1021@0.0.1920.1021" timestamp="1586274689968" />
+    <state width="1886" height="300" key="GridCell.Tab.0.center" timestamp="1586274689967">
+      <screen x="0" y="0" width="1920" height="1021" />
+    </state>
+    <state width="1886" height="300" key="GridCell.Tab.0.center/0.0.1920.1021@0.0.1920.1021" timestamp="1586274689967" />
+    <state width="1886" height="300" key="GridCell.Tab.0.left" timestamp="1586274689966">
+      <screen x="0" y="0" width="1920" height="1021" />
+    </state>
+    <state width="1886" height="300" key="GridCell.Tab.0.left/0.0.1920.1021@0.0.1920.1021" timestamp="1586274689966" />
+    <state width="1886" height="300" key="GridCell.Tab.0.right" timestamp="1586274689967">
+      <screen x="0" y="0" width="1920" height="1021" />
+    </state>
+    <state width="1886" height="300" key="GridCell.Tab.0.right/0.0.1920.1021@0.0.1920.1021" timestamp="1586274689967" />
+    <state width="1886" height="300" key="GridCell.Tab.1.bottom" timestamp="1586274689969">
+      <screen x="0" y="0" width="1920" height="1021" />
+    </state>
+    <state width="1886" height="300" key="GridCell.Tab.1.bottom/0.0.1920.1021@0.0.1920.1021" timestamp="1586274689969" />
+    <state width="1886" height="300" key="GridCell.Tab.1.center" timestamp="1586274689969">
+      <screen x="0" y="0" width="1920" height="1021" />
+    </state>
+    <state width="1886" height="300" key="GridCell.Tab.1.center/0.0.1920.1021@0.0.1920.1021" timestamp="1586274689969" />
+    <state width="1886" height="300" key="GridCell.Tab.1.left" timestamp="1586274689968">
+      <screen x="0" y="0" width="1920" height="1021" />
+    </state>
+    <state width="1886" height="300" key="GridCell.Tab.1.left/0.0.1920.1021@0.0.1920.1021" timestamp="1586274689968" />
+    <state width="1886" height="300" key="GridCell.Tab.1.right" timestamp="1586274689969">
+      <screen x="0" y="0" width="1920" height="1021" />
+    </state>
+    <state width="1886" height="300" key="GridCell.Tab.1.right/0.0.1920.1021@0.0.1920.1021" timestamp="1586274689969" />
+  </component>
+</project>
